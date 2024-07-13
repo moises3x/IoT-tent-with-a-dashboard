@@ -1,6 +1,3 @@
-Certainly! Here's a README.md file for your GitHub repository:
-
-```markdown
 # Smart Tent Project
 
 This project is a smart tent monitoring system built with Arduino and IoT, using a Node.js server with Express.js to handle user authentication and a dashboard for visualizing sensor data. The dashboard provides real-time monitoring of temperature, humidity, air quality, and weather conditions.
@@ -26,7 +23,7 @@ This project is a smart tent monitoring system built with Arduino and IoT, using
    ```bash
    git clone https://github.com/your-username/smart-tent.git
    cd smart-tent
-   ```
+
 
 2. **Install Dependencies**:
    ```bash
